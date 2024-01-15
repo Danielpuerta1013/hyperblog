@@ -6,8 +6,11 @@ body{
     padding:0
 }
 
-#cabecera{
-    background:#33a;
+#cabecera #tagline {
+    box-shadow: 0px 2px 20px rgba(0, 0 0, 0.5);
+    padding: 0 0 0 1em;
+    font-size: 0.8em;
+    background:rgb(215, 39, 227);
     box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
     color:#fff;
     font-weight:700;
